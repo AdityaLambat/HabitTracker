@@ -1,0 +1,102 @@
+.navbar {
+  background-color: rgb(228, 228, 228);
+  border-bottom: 2px solid black;
+}
+
+#nav2 {
+  border: none;
+  background-color: white;
+  border-bottom: 2px solid black;
+}
+
+#icon i {
+  padding-right: 5px;
+}
+
+#icon2 {  
+  margin-right: 10px;
+}
+
+#cont {
+  margin-top: 3%;
+}
+
+.habits {
+  width: 100%;
+}
+
+.habit {
+  width: 100%;
+  height: 100px;
+  border-bottom: 1px solid #323232;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0px 20px;
+}
+
+.habit-left {
+  display: flex;
+  align-items: center;
+}
+
+.habit-left i {
+  margin-top: -30%;
+  color: #2AA8D0;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: #304950;
+  margin-right: 10px;
+}
+
+.habit-right {
+  display: flex;
+  padding: 10px;
+}
+
+
+.days-container {
+  margin: 20px 0px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.day-container {
+  height: 100px;
+  width: 155px;
+  border-radius: 20px;
+  padding: 5px;
+  border: 2px solid black;
+}
+
+p {
+  margin: 0%;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color: white;
+}
+
+.circle-icon {
+  font-size: 24px;
+  margin: 5px 11px;
+  cursor: pointer;
+  color: grey;
+}
+
+.activeyes {
+  color: green;
+}
+
+.activeno {
+  color: red;
+}
+
+.activenone {
+  color: black;
+}
