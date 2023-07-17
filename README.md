@@ -6,7 +6,7 @@ The Habit Tracker is a react application using react and redux. In which user wi
 https://habittracker-hdd7.onrender.com/
 
 ## Features
-
+````
 1. Add multiple habits to track.
 2. Track each habit everyday.
 3. Three Status for habit
@@ -16,6 +16,7 @@ https://habittracker-hdd7.onrender.com/
 4. A view to show all current habits.
 5. Add button where you can add a new habit to track
 6. A view to display 7 days of each habit
+````
 
 ## Technologies Used
 
