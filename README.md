@@ -7,7 +7,7 @@ The Habit Tracker is a react application using react and redux. In which user wi
 <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/Vercel-Dark.svg" width="50">
 
 ## Hosted Link
-[https://habittracker-hdd7.onrender.com/](https://habit-tracker-chi-flax.vercel.app/)
+(https://habit-tracker-chi-flax.vercel.app/)
 
 ## Features
 ```
