@@ -10,17 +10,19 @@ The Habit Tracker is a react application using react and redux. In which user wi
 [https://habittracker-hdd7.onrender.com/](https://habit-tracker-chi-flax.vercel.app/)
 
 ## Features
-
+```
 1. Add multiple habits to track.
 2. Track each habit everyday.
 3. Three Status for habit
-   <img src="https://cdn-icons-png.flaticon.com/128/190/190411.png" width="10"> Mark a habit as done.
+```
+   <img src="https://cdn-icons-png.flaticon.com/128/190/190411.png" width="20"> Mark a habit as done.
 ✗ Cross: Mark a habit as not done.
 ➖ Minus sign: Indicate that a habit was skipped
+```
 4. A view to show all current habits.
 5. Add button where you can add a new habit to track
 6. A view to display 7 days of each habit
-
+```
 ## Technologies Used
 
 The AlbumsCollection is build using the following technologies:
