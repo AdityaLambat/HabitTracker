@@ -17,9 +17,10 @@ The Habit Tracker is a react application using react and redux. In which user wi
 ```
 <p align="center">
    <img src="https://cdn-icons-png.flaticon.com/128/190/190411.png" width="15"> Mark a habit as done.
+   <img src="https://cdn-icons-png.flaticon.com/128/1828/1828843.png" width="15"> Mark a habit as not done.
+   <img src="https://cdn-icons-png.flaticon.com/128/1828/1828899.png" width="15"> Mark a habit that action was not taken.
 </p>   
-✗ Cross: Mark a habit as not done.
-➖ Minus sign: Indicate that a habit was skipped
+
 ```
 4. A view to show all current habits.
 5. Add button where you can add a new habit to track
