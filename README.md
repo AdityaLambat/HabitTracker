@@ -15,7 +15,9 @@ The Habit Tracker is a react application using react and redux. In which user wi
 2. Track each habit everyday.
 3. Three Status for habit
 ```
+<p align="center">
    <img src="https://cdn-icons-png.flaticon.com/128/190/190411.png" width="15"> Mark a habit as done.
+</p>   
 ✗ Cross: Mark a habit as not done.
 ➖ Minus sign: Indicate that a habit was skipped
 ```
