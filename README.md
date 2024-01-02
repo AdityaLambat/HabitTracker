@@ -1,6 +1,6 @@
 # HabitTracker
 
-The Habit Tracker is a react application using react and redux. In which user will be able to define habits and track them. The Habit Tracker is a front-end project developed and designed to help users track their habits. It utilizes local storage for data persistence, allowing users to seamlessly manage their habits without the need for server-side storage.
+The Habit Tracker is a react application using react and redux. In which user will be able to define habits and track them. The Habit Tracker is a front-end project developed and designed to help users track their habits. It also tracks the status of habit.
 
 ## Deployed On
 ### Vercel
@@ -28,11 +28,14 @@ The Habit Tracker is a react application using react and redux. In which user wi
 
 The AlbumsCollection is build using the following technologies:
 ````
-1. React
-2. Redux
-3. HTML
-4. CSS
-5. Bootstrap
+<p>
+  <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="CSS Icon" width="50">
+  <img src="https://github.com/AdityaLambat/skill-icons/raw/main/icons/JavaScript.svg" width="50">
+  <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/React-Dark.svg" width="50">
+  <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/Bootstrap.svg" width="50">
+  <img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/Redux.svg" width="50">
+</p>
+
 ````
 
 ## Getting Started
