@@ -15,10 +15,10 @@ The Habit Tracker is a react application using react and redux. In which user wi
 2. Track each habit everyday.
 3. Three Status for habit
 ```
-<p align="center">
-   <img src="https://cdn-icons-png.flaticon.com/128/190/190411.png" width="15"> Mark a habit as done.
-   <img src="https://cdn-icons-png.flaticon.com/128/1828/1828843.png" width="15"> Mark a habit as not done.
-   <img src="https://cdn-icons-png.flaticon.com/128/1828/1828899.png" width="15"> Mark a habit that action was not taken.
+<p>
+   <img src="https://cdn-icons-png.flaticon.com/128/190/190411.png" width="15" style="margin-right: 5px;"> Mark a habit as done
+   <img src="https://cdn-icons-png.flaticon.com/128/1828/1828843.png" width="15" style="margin-right: 5px;"> Mark a habit as not done
+   <img src="https://cdn-icons-png.flaticon.com/128/1828/1828899.png" width="15" style="margin-right: 5px;"> Mark a habit that action was not taken
 </p>   
 
 ```
