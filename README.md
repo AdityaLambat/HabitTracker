@@ -1,18 +1,22 @@
 # HabitTracker
 
-The Habit Tracker is a react application using react and redux. In which user will be able to define habits and track them.
+The Habit Tracker is a react application using react and redux. In which user will be able to define habits and track them. The Habit Tracker is a front-end project developed and designed to help users track their habits. It utilizes local storage for data persistence, allowing users to seamlessly manage their habits without the need for server-side storage.
+
+## Deployed On
+### Vercel
+<img src="https://github.com/AdityaLambat/skill-icons/blob/main/icons/Vercel-Dark.svg" width="50">
 
 ## Hosted Link
-https://habittracker-hdd7.onrender.com/
+[https://habittracker-hdd7.onrender.com/](https://habit-tracker-chi-flax.vercel.app/)
 
 ## Features
 ````
 1. Add multiple habits to track.
 2. Track each habit everyday.
 3. Three Status for habit
-   |-> Done - Mark the habit as done for a day
-   |-> Not done - Mark the habit as not done for a day
-   |-> None - User did not take any action on a habit for a day
+   <img src="https://thenounproject.com/browse/icons/term/tick-circle/"> Mark a habit as done.
+✗ Cross: Mark a habit as not done.
+➖ Minus sign: Indicate that a habit was skipped
 4. A view to show all current habits.
 5. Add button where you can add a new habit to track
 6. A view to display 7 days of each habit
