@@ -1,6 +1,8 @@
 # HabitTracker
 
-The Habit Tracker is a react application using react and redux. In which user will be able to define habits and track them. The Habit Tracker is a front-end project developed and designed to help users track their habits. It also tracks the status of habit.
+<p align="justify">
+  The Habit Tracker is a react application using react and redux. In which user will be able to define habits and track them. The Habit Tracker is a front-end project developed and designed to help users track their habits. It also tracks the status of habit.
+</p>
 
 ## Deployed On
 ### Vercel
